@@ -1,0 +1,14 @@
+{
+  "composer": {
+    "appId": "app_ofertas",
+    "version": "^1.1.0",
+    "bridge": {
+      "componentsPath": "./components/",
+      "composerEndpoint": "./composerMocks/",
+      "deployEndpoint": ""
+    },
+    "bowerExclusions": ["web-component-tester","polymer","cells-polymer-bridge"],
+    "elementsExclusions": [],
+    "build": {}
+  }
+}
